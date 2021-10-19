@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EindtaakTDD", "EindtaakTDD\EindtaakTDD.csproj", "{DBE0CFE9-CCD7-472F-BA35-A34978788921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EindTaakTDDTest", "EindTaakTDDTest\EindTaakTDDTest.csproj", "{2142ABDB-FFFD-4705-BAA1-F20C73FCC5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE0CFE9-CCD7-472F-BA35-A34978788921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE0CFE9-CCD7-472F-BA35-A34978788921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE0CFE9-CCD7-472F-BA35-A34978788921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE0CFE9-CCD7-472F-BA35-A34978788921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2142ABDB-FFFD-4705-BAA1-F20C73FCC5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2142ABDB-FFFD-4705-BAA1-F20C73FCC5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2142ABDB-FFFD-4705-BAA1-F20C73FCC5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2142ABDB-FFFD-4705-BAA1-F20C73FCC5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C77FF5-66B3-4B63-A65E-B06D6E67D4E6}
+	EndGlobalSection
+EndGlobal
